@@ -1,0 +1,201 @@
+Campaign_ID,Year,Month,MonthNum,Quarter,Campaign_Name,Marketing_Channel,Target_Segment,Impressions,Clicks,Leads_Generated,Budget_USD,Revenue_USD,ROI,Quality_Score,Campaign_Status
+CMP-90101,2025,August,8,Q3,Brand Awareness Booster,Affiliate Network,Young Professionals,399329,11101,436,7986.58,60669.4,6.6,8,Profitable
+CMP-90102,2025,June,6,Q2,Brand Awareness Booster,Social Media Ads,Young Professionals,251257,9211,530,6128.23,43603.1,6.12,8,Profitable
+CMP-90103,2025,December,12,Q4,Q1 Seasonal Product Launch,Social Media Ads,Corporate Clients,365903,11249,404,5461.25,98826.48,17.1,10,Profitable
+CMP-90104,2025,December,12,Q4,Flash Discount Drive,Social Media Ads,Young Professionals,703095,23042,503,15284.69,40219.88,1.63,10,Profitable
+CMP-90105,2025,February,2,Q1,Q2 Summer Retargeting Wave,Affiliate Network,Budget Shoppers,392229,8157,357,5854.17,48277.11,7.25,10,Profitable
+CMP-90106,2025,January,1,Q1,Brand Awareness Booster,Email Marketing,Young Professionals,103225,7548,542,2293.9,47495.46,19.71,7,Profitable
+CMP-90107,2025,October,10,Q4,Flash Discount Drive,Social Media Ads,Eco-Conscious Consumers,979655,26308,1501,13995.08,351203.98,24.09,9,Profitable
+CMP-90108,2025,February,2,Q1,Brand Awareness Booster,Social Media Ads,Corporate Clients,1326682,43253,2535,15793.84,187311.15,10.86,10,Profitable
+CMP-90109,2025,August,8,Q3,Customer Retention Campaign,Social Media Ads,Tech Enthusiasts,722267,17193,353,12897.63,67362.99,4.22,6,Profitable
+CMP-90110,2025,July,7,Q3,Q1 Seasonal Product Launch,Google Paid Search,Eco-Conscious Consumers,668869,34796,2522,13115.08,284557.26,20.7,10,Profitable
+CMP-90111,2025,December,12,Q4,Flash Discount Drive,Social Media Ads,Young Professionals,1349087,56144,2183,17751.15,533088.6,29.03,6,Profitable
+CMP-90112,2025,September,9,Q3,Q1 Seasonal Product Launch,Google Paid Search,Young Professionals,990398,23651,1229,13949.28,215640.34,14.46,7,Profitable
+CMP-90113,2025,July,7,Q3,Customer Retention Campaign,Email Marketing,Corporate Clients,209148,14011,899,4022.09,54641.22,12.59,6,Profitable
+CMP-90114,2025,October,10,Q4,End of Year Clearance Blitz,Social Media Ads,Eco-Conscious Consumers,1417881,48210,2644,21162.41,237378.32,10.22,7,Profitable
+CMP-90115,2025,July,7,Q3,Flash Discount Drive,Influencer Partnerships,Eco-Conscious Consumers,2124835,34762,1620,32194.47,214747.2,5.67,7,Profitable
+CMP-90116,2025,September,9,Q3,Customer Retention Campaign,Influencer Partnerships,Young Professionals,1328695,31687,1779,21090.41,423935.7,19.1,9,Profitable
+CMP-90117,2025,October,10,Q4,Q1 Seasonal Product Launch,Email Marketing,Tech Enthusiasts,511477,26898,2281,5812.24,171896.16,28.57,4,Profitable
+CMP-90118,2025,December,12,Q4,End of Year Clearance Blitz,Google Paid Search,Eco-Conscious Consumers,273800,8146,614,4720.7,113307.56,23.0,8,Profitable
+CMP-90119,2025,July,7,Q3,Brand Awareness Booster,Email Marketing,Budget Shoppers,302910,15715,1586,4808.1,224276.26,45.65,5,Profitable
+CMP-90120,2025,September,9,Q3,Flash Discount Drive,Email Marketing,Tech Enthusiasts,153630,7577,400,2603.9,44728.0,16.18,7,Profitable
+CMP-90121,2025,April,4,Q2,End of Year Clearance Blitz,Google Paid Search,Young Professionals,1016528,26534,1712,13032.42,405795.36,30.14,4,Profitable
+CMP-90122,2025,February,2,Q1,End of Year Clearance Blitz,Social Media Ads,Tech Enthusiasts,1292162,53392,1618,23493.87,343873.54,13.64,4,Profitable
+CMP-90123,2025,January,1,Q1,Brand Awareness Booster,Email Marketing,Eco-Conscious Consumers,70344,5969,674,1465.51,68862.58,45.99,6,Profitable
+CMP-90124,2025,August,8,Q3,End of Year Clearance Blitz,Influencer Partnerships,Tech Enthusiasts,2447030,70260,6121,30975.07,1036407.72,32.46,6,Profitable
+CMP-90125,2025,February,2,Q1,Flash Discount Drive,Affiliate Network,Tech Enthusiasts,198444,9413,673,3608.08,167482.78,45.42,7,Profitable
+CMP-90126,2025,April,4,Q2,Q1 Seasonal Product Launch,Social Media Ads,Corporate Clients,887715,33134,1618,12329.38,252763.96,19.5,6,Profitable
+CMP-90127,2025,March,3,Q1,End of Year Clearance Blitz,Google Paid Search,Corporate Clients,1137716,47886,3339,16488.65,591837.75,34.89,10,Profitable
+CMP-90128,2025,March,3,Q1,Q1 Seasonal Product Launch,Social Media Ads,Corporate Clients,1364526,51929,1129,16440.08,268464.91,15.33,8,Profitable
+CMP-90129,2025,December,12,Q4,Flash Discount Drive,Affiliate Network,Young Professionals,150819,10016,557,2154.57,135094.78,61.7,4,Profitable
+CMP-90130,2025,July,7,Q3,Brand Awareness Booster,Social Media Ads,Corporate Clients,839929,24826,866,10369.5,205164.06,18.79,5,Profitable
+CMP-90131,2025,June,6,Q2,End of Year Clearance Blitz,Email Marketing,Eco-Conscious Consumers,181559,9569,676,2793.23,133077.36,46.64,4,Profitable
+CMP-90132,2025,October,10,Q4,Q1 Seasonal Product Launch,Google Paid Search,Corporate Clients,797215,38548,2827,15331.06,174510.71,10.38,10,Profitable
+CMP-90133,2025,January,1,Q1,Q1 Seasonal Product Launch,Google Paid Search,Budget Shoppers,309576,10490,341,4993.17,17275.06,2.46,5,Profitable
+CMP-90134,2025,September,9,Q3,Q2 Summer Retargeting Wave,Email Marketing,Young Professionals,108287,9647,1048,1775.21,100922.4,55.85,5,Profitable
+CMP-90135,2025,December,12,Q4,Flash Discount Drive,Social Media Ads,Young Professionals,957240,38132,1176,11533.02,203083.44,16.61,7,Profitable
+CMP-90136,2025,March,3,Q1,Flash Discount Drive,Social Media Ads,Budget Shoppers,1437636,52880,3121,17748.6,347086.41,18.56,4,Profitable
+CMP-90137,2025,May,5,Q2,End of Year Clearance Blitz,Email Marketing,Eco-Conscious Consumers,98005,4316,345,1921.67,44449.8,22.13,5,Profitable
+CMP-90138,2025,June,6,Q2,Q2 Summer Retargeting Wave,Social Media Ads,Eco-Conscious Consumers,1061055,36930,1152,19291.92,173859.84,8.01,10,Profitable
+CMP-90139,2025,December,12,Q4,Customer Retention Campaign,Google Paid Search,Young Professionals,810867,20719,746,11924.52,51317.34,3.3,8,Profitable
+CMP-90140,2025,May,5,Q2,Q1 Seasonal Product Launch,Social Media Ads,Budget Shoppers,1129711,20261,803,14483.48,93139.97,5.43,9,Profitable
+CMP-90141,2025,October,10,Q4,Flash Discount Drive,Google Paid Search,Eco-Conscious Consumers,847113,43231,1860,17288.04,322338.0,17.65,5,Profitable
+CMP-90142,2025,April,4,Q2,Q1 Seasonal Product Launch,Email Marketing,Corporate Clients,273310,23831,2766,4079.26,456611.28,110.93,6,Profitable
+CMP-90143,2025,March,3,Q1,Brand Awareness Booster,Email Marketing,Eco-Conscious Consumers,320449,20160,1777,4216.44,307989.64,72.04,4,Profitable
+CMP-90144,2025,December,12,Q4,Q1 Seasonal Product Launch,Google Paid Search,Young Professionals,697355,19184,937,7835.46,173363.74,21.13,4,Profitable
+CMP-90145,2025,October,10,Q4,Q2 Summer Retargeting Wave,Social Media Ads,Eco-Conscious Consumers,235013,9267,289,5465.44,54054.56,8.89,5,Profitable
+CMP-90146,2025,September,9,Q3,Customer Retention Campaign,Affiliate Network,Budget Shoppers,481670,16425,667,10034.81,107753.85,9.74,6,Profitable
+CMP-90147,2025,February,2,Q1,Q1 Seasonal Product Launch,Google Paid Search,Budget Shoppers,532516,21470,1574,7500.23,347806.78,45.37,4,Profitable
+CMP-90148,2025,September,9,Q3,Customer Retention Campaign,Google Paid Search,Young Professionals,594444,23005,1261,9288.2,139479.21,14.02,6,Profitable
+CMP-90149,2025,September,9,Q3,End of Year Clearance Blitz,Email Marketing,Budget Shoppers,366500,21163,2475,5235.72,593678.25,112.39,6,Profitable
+CMP-90150,2025,May,5,Q2,Q2 Summer Retargeting Wave,Google Paid Search,Corporate Clients,607871,19149,1218,8104.95,291065.46,34.91,4,Profitable
+CMP-90151,2025,July,7,Q3,Customer Retention Campaign,Affiliate Network,Eco-Conscious Consumers,813233,18536,1375,11959.31,160792.5,12.44,5,Profitable
+CMP-90152,2025,December,12,Q4,Brand Awareness Booster,Google Paid Search,Eco-Conscious Consumers,1274756,62905,3227,16136.16,193361.84,10.98,5,Profitable
+CMP-90153,2025,May,5,Q2,End of Year Clearance Blitz,Google Paid Search,Corporate Clients,443176,17880,1308,7265.19,276798.96,37.1,10,Profitable
+CMP-90154,2025,June,6,Q2,Q1 Seasonal Product Launch,Email Marketing,Budget Shoppers,354190,22697,1735,4540.91,228967.95,49.42,5,Profitable
+CMP-90155,2025,February,2,Q1,End of Year Clearance Blitz,Social Media Ads,Young Professionals,1149856,19190,475,14373.21,93841.0,5.53,6,Profitable
+CMP-90156,2025,December,12,Q4,Customer Retention Campaign,Social Media Ads,Tech Enthusiasts,482140,19795,572,10714.24,119793.96,10.18,8,Profitable
+CMP-90157,2025,June,6,Q2,Customer Retention Campaign,Social Media Ads,Corporate Clients,1362586,58010,1747,23492.87,425761.37,17.12,5,Profitable
+CMP-90158,2025,May,5,Q2,Q1 Seasonal Product Launch,Social Media Ads,Tech Enthusiasts,946925,25118,1242,18938.5,127429.2,5.73,9,Profitable
+CMP-90159,2025,August,8,Q3,Brand Awareness Booster,Social Media Ads,Corporate Clients,747030,25701,913,8393.6,90861.76,9.83,8,Profitable
+CMP-90160,2025,June,6,Q2,Q1 Seasonal Product Launch,Social Media Ads,Young Professionals,293608,6868,250,5646.32,46342.5,7.21,8,Profitable
+CMP-90161,2025,June,6,Q2,Customer Retention Campaign,Affiliate Network,Corporate Clients,471418,26534,1772,11498.0,109793.12,8.55,9,Profitable
+CMP-90162,2025,July,7,Q3,Q2 Summer Retargeting Wave,Email Marketing,Corporate Clients,262840,20732,1733,3056.28,131430.72,42.0,8,Profitable
+CMP-90163,2025,November,11,Q4,Q2 Summer Retargeting Wave,Email Marketing,Young Professionals,153816,6641,349,3845.41,16682.2,3.34,10,Profitable
+CMP-90164,2025,May,5,Q2,Flash Discount Drive,Google Paid Search,Corporate Clients,1364421,53812,3683,17952.92,737336.6,40.07,6,Profitable
+CMP-90165,2025,January,1,Q1,Q1 Seasonal Product Launch,Social Media Ads,Tech Enthusiasts,2119129,70323,2049,24081.02,410168.82,16.03,5,Profitable
+CMP-90166,2025,October,10,Q4,Brand Awareness Booster,Social Media Ads,Eco-Conscious Consumers,785713,29990,1223,15406.15,259716.28,15.86,7,Profitable
+CMP-90167,2025,September,9,Q3,Customer Retention Campaign,Social Media Ads,Young Professionals,1276733,37537,1382,16799.12,237925.12,13.16,5,Profitable
+CMP-90168,2025,February,2,Q1,End of Year Clearance Blitz,Social Media Ads,Budget Shoppers,792775,25921,925,12011.75,58885.5,3.9,5,Profitable
+CMP-90169,2025,August,8,Q3,Brand Awareness Booster,Email Marketing,Tech Enthusiasts,310932,17069,1479,5552.36,354442.35,62.84,7,Profitable
+CMP-90170,2025,January,1,Q1,Q2 Summer Retargeting Wave,Affiliate Network,Eco-Conscious Consumers,187880,8070,716,4582.44,80471.24,16.56,6,Profitable
+CMP-90171,2025,September,9,Q3,End of Year Clearance Blitz,Social Media Ads,Young Professionals,781130,25420,915,14202.38,161387.7,10.36,7,Profitable
+CMP-90172,2025,November,11,Q4,Q1 Seasonal Product Launch,Influencer Partnerships,Young Professionals,1509395,20295,1045,26024.06,223076.15,7.57,5,Profitable
+CMP-90173,2025,June,6,Q2,Brand Awareness Booster,Social Media Ads,Corporate Clients,541128,15597,440,7412.72,31411.6,3.24,5,Profitable
+CMP-90174,2025,September,9,Q3,Customer Retention Campaign,Social Media Ads,Eco-Conscious Consumers,1199078,42727,1729,14622.91,404205.62,26.64,8,Profitable
+CMP-90175,2025,August,8,Q3,Q1 Seasonal Product Launch,Social Media Ads,Tech Enthusiasts,1217876,25009,709,19965.19,66220.6,2.32,7,Profitable
+CMP-90176,2025,October,10,Q4,Flash Discount Drive,Email Marketing,Corporate Clients,101774,5355,535,1183.42,116688.85,97.6,6,Profitable
+CMP-90177,2025,June,6,Q2,Brand Awareness Booster,Social Media Ads,Eco-Conscious Consumers,1189578,26496,815,15652.35,67131.55,3.29,10,Profitable
+CMP-90178,2025,December,12,Q4,Q1 Seasonal Product Launch,Influencer Partnerships,Eco-Conscious Consumers,700545,11810,808,14296.84,167078.24,10.69,8,Profitable
+CMP-90179,2025,August,8,Q3,Q2 Summer Retargeting Wave,Social Media Ads,Eco-Conscious Consumers,1271533,40604,1427,16730.71,170426.61,9.19,5,Profitable
+CMP-90180,2025,June,6,Q2,Q2 Summer Retargeting Wave,Social Media Ads,Young Professionals,770197,17034,410,17115.5,49159.0,1.87,7,Profitable
+CMP-90181,2025,July,7,Q3,Flash Discount Drive,Social Media Ads,Tech Enthusiasts,380060,5908,282,6032.71,19167.54,2.18,5,Profitable
+CMP-90182,2025,June,6,Q2,Brand Awareness Booster,Affiliate Network,Budget Shoppers,481777,21457,1574,11750.67,250486.36,20.32,5,Profitable
+CMP-90183,2025,June,6,Q2,End of Year Clearance Blitz,Influencer Partnerships,Corporate Clients,2014014,48777,2534,34135.84,239944.46,6.03,10,Profitable
+CMP-90184,2025,November,11,Q4,Q1 Seasonal Product Launch,Google Paid Search,Corporate Clients,767169,23952,1429,17048.2,162906.0,8.56,5,Profitable
+CMP-90185,2025,February,2,Q1,Customer Retention Campaign,Social Media Ads,Budget Shoppers,869978,34186,1031,11447.08,46972.36,3.1,4,Profitable
+CMP-90186,2025,January,1,Q1,End of Year Clearance Blitz,Email Marketing,Young Professionals,262682,20304,1595,5253.64,378589.2,71.06,7,Profitable
+CMP-90187,2025,August,8,Q3,End of Year Clearance Blitz,Social Media Ads,Budget Shoppers,1595352,59849,3111,21558.82,244742.37,10.35,8,Profitable
+CMP-90188,2025,April,4,Q2,End of Year Clearance Blitz,Google Paid Search,Eco-Conscious Consumers,396057,16076,1031,8426.75,139205.62,15.52,9,Profitable
+CMP-90189,2025,July,7,Q3,End of Year Clearance Blitz,Google Paid Search,Tech Enthusiasts,872248,35074,1675,10142.43,207197.5,19.43,9,Profitable
+CMP-90190,2025,July,7,Q3,Customer Retention Campaign,Affiliate Network,Young Professionals,148942,9977,675,3168.98,126366.75,38.88,7,Profitable
+CMP-90191,2025,April,4,Q2,Customer Retention Campaign,Email Marketing,Young Professionals,395238,30678,3052,5988.46,602800.52,99.66,9,Profitable
+CMP-90192,2025,May,5,Q2,Brand Awareness Booster,Email Marketing,Eco-Conscious Consumers,376868,21520,2313,5383.83,283712.58,51.7,8,Profitable
+CMP-90193,2025,August,8,Q3,Brand Awareness Booster,Email Marketing,Corporate Clients,71733,3691,371,1749.59,17622.5,9.07,6,Profitable
+CMP-90194,2025,November,11,Q4,End of Year Clearance Blitz,Email Marketing,Eco-Conscious Consumers,315616,25672,3007,3995.15,494952.2,122.89,10,Profitable
+CMP-90195,2025,October,10,Q4,Q2 Summer Retargeting Wave,Affiliate Network,Budget Shoppers,676157,30626,2042,7862.3,395841.7,49.35,6,Profitable
+CMP-90196,2025,May,5,Q2,Brand Awareness Booster,Social Media Ads,Budget Shoppers,1571149,56902,1485,23449.99,180813.6,6.71,4,Profitable
+CMP-90197,2025,June,6,Q2,Flash Discount Drive,Social Media Ads,Tech Enthusiasts,1508891,28192,829,23213.72,179868.13,6.75,9,Profitable
+CMP-90198,2025,August,8,Q3,Q1 Seasonal Product Launch,Social Media Ads,Young Professionals,840736,22177,1103,17157.89,231166.74,12.47,8,Profitable
+CMP-90199,2025,September,9,Q3,Q2 Summer Retargeting Wave,Social Media Ads,Budget Shoppers,1469843,62745,2423,22270.36,475368.37,20.35,4,Profitable
+CMP-90200,2025,March,3,Q1,End of Year Clearance Blitz,Social Media Ads,Young Professionals,627765,20294,540,9964.53,58779.0,4.9,8,Profitable
+CMP-90201,2025,February,2,Q1,End of Year Clearance Blitz,Google Paid Search,Budget Shoppers,1169477,30676,2394,13289.52,381244.5,27.69,9,Profitable
+CMP-90202,2025,July,7,Q3,Brand Awareness Booster,Email Marketing,Tech Enthusiasts,230661,10000,1024,3976.93,119418.88,29.03,9,Profitable
+CMP-90203,2025,August,8,Q3,Customer Retention Campaign,Google Paid Search,Corporate Clients,1087967,32956,2165,12224.35,330162.5,26.01,7,Profitable
+CMP-90204,2025,April,4,Q2,Q1 Seasonal Product Launch,Email Marketing,Young Professionals,135584,11265,1309,1909.64,131973.38,68.11,6,Profitable
+CMP-90205,2025,July,7,Q3,Flash Discount Drive,Email Marketing,Tech Enthusiasts,277049,22715,2514,5894.66,127082.7,20.56,10,Profitable
+CMP-90206,2025,August,8,Q3,End of Year Clearance Blitz,Social Media Ads,Young Professionals,509916,19885,539,7082.17,85771.07,11.11,5,Profitable
+CMP-90207,2025,April,4,Q2,End of Year Clearance Blitz,Social Media Ads,Young Professionals,2078272,39970,1449,23888.19,91026.18,2.81,5,Profitable
+CMP-90208,2025,March,3,Q1,Q1 Seasonal Product Launch,Social Media Ads,Young Professionals,1432831,39607,2206,16660.83,381814.48,21.92,6,Profitable
+CMP-90209,2025,July,7,Q3,Q2 Summer Retargeting Wave,Influencer Partnerships,Young Professionals,615767,16387,994,8924.16,118653.78,12.3,8,Profitable
+CMP-90210,2025,June,6,Q2,Brand Awareness Booster,Social Media Ads,Eco-Conscious Consumers,1750590,32258,1375,20595.18,194658.75,8.45,4,Profitable
+CMP-90211,2025,August,8,Q3,Q2 Summer Retargeting Wave,Social Media Ads,Tech Enthusiasts,1157592,31343,900,18976.92,194544.0,9.25,7,Profitable
+CMP-90212,2025,February,2,Q1,Q2 Summer Retargeting Wave,Email Marketing,Corporate Clients,141692,5797,660,2361.54,139979.4,58.27,4,Profitable
+CMP-90213,2025,September,9,Q3,Flash Discount Drive,Social Media Ads,Corporate Clients,911907,33381,809,14949.3,59105.54,2.95,4,Profitable
+CMP-90214,2025,December,12,Q4,Flash Discount Drive,Google Paid Search,Eco-Conscious Consumers,720348,26868,1576,12863.37,206219.6,15.03,7,Profitable
+CMP-90215,2025,December,12,Q4,Flash Discount Drive,Email Marketing,Eco-Conscious Consumers,376554,18533,1043,5793.14,61526.57,9.62,6,Profitable
+CMP-90216,2025,November,11,Q4,End of Year Clearance Blitz,Email Marketing,Tech Enthusiasts,213762,14604,1216,2485.61,292557.44,116.7,9,Profitable
+CMP-90217,2025,April,4,Q2,Customer Retention Campaign,Email Marketing,Eco-Conscious Consumers,207155,9964,1085,3699.21,159234.6,42.05,8,Profitable
+CMP-90218,2025,February,2,Q1,End of Year Clearance Blitz,Social Media Ads,Eco-Conscious Consumers,456446,7875,386,7131.97,73150.86,9.26,5,Profitable
+CMP-90219,2025,February,2,Q1,Q1 Seasonal Product Launch,Social Media Ads,Young Professionals,1532147,54913,1696,20988.32,112156.48,4.34,8,Profitable
+CMP-90220,2025,January,1,Q1,Brand Awareness Booster,Influencer Partnerships,Tech Enthusiasts,1851102,35023,1789,33656.41,400646.55,10.9,10,Profitable
+CMP-90221,2025,June,6,Q2,Customer Retention Campaign,Google Paid Search,Corporate Clients,658983,35796,2690,12921.24,243041.5,17.81,5,Profitable
+CMP-90222,2025,July,7,Q3,Q1 Seasonal Product Launch,Affiliate Network,Eco-Conscious Consumers,551702,26366,1539,11993.53,79966.44,5.67,8,Profitable
+CMP-90223,2025,November,11,Q4,Q1 Seasonal Product Launch,Social Media Ads,Eco-Conscious Consumers,1863055,54450,2966,23885.33,410197.8,16.17,6,Profitable
+CMP-90224,2025,December,12,Q4,Q2 Summer Retargeting Wave,Google Paid Search,Young Professionals,449347,10197,660,5687.94,89370.6,14.71,10,Profitable
+CMP-90225,2025,April,4,Q2,Brand Awareness Booster,Email Marketing,Tech Enthusiasts,272449,15240,1429,4953.62,189342.5,37.22,7,Profitable
+CMP-90226,2025,October,10,Q4,Flash Discount Drive,Email Marketing,Young Professionals,339247,13573,854,5951.71,202833.54,33.08,6,Profitable
+CMP-90227,2025,January,1,Q1,End of Year Clearance Blitz,Affiliate Network,Budget Shoppers,499602,21979,1486,6019.31,366655.64,59.91,5,Profitable
+CMP-90228,2025,May,5,Q2,Flash Discount Drive,Email Marketing,Budget Shoppers,321633,12919,1068,4661.36,234778.44,49.37,5,Profitable
+CMP-90229,2025,May,5,Q2,Flash Discount Drive,Email Marketing,Tech Enthusiasts,374132,22967,1766,5938.61,124520.66,19.97,6,Profitable
+CMP-90230,2025,November,11,Q4,Q2 Summer Retargeting Wave,Google Paid Search,Corporate Clients,771104,41933,3111,12239.76,438091.02,34.79,8,Profitable
+CMP-90231,2025,April,4,Q2,Q2 Summer Retargeting Wave,Social Media Ads,Budget Shoppers,809208,35024,1610,9633.43,112168.7,10.64,6,Profitable
+CMP-90232,2025,January,1,Q1,Q2 Summer Retargeting Wave,Email Marketing,Tech Enthusiasts,497626,40462,4291,5786.35,383400.85,65.26,4,Profitable
+CMP-90233,2025,November,11,Q4,End of Year Clearance Blitz,Email Marketing,Tech Enthusiasts,187816,14633,1444,2981.21,330632.68,109.91,6,Profitable
+CMP-90234,2025,September,9,Q3,Flash Discount Drive,Google Paid Search,Corporate Clients,984092,39661,1371,12301.16,171635.49,12.95,6,Profitable
+CMP-90235,2025,September,9,Q3,Brand Awareness Booster,Email Marketing,Young Professionals,336702,14064,1027,5260.97,162194.11,29.83,6,Profitable
+CMP-90236,2025,May,5,Q2,Q2 Summer Retargeting Wave,Email Marketing,Young Professionals,108221,7210,846,1243.92,156569.22,124.87,8,Profitable
+CMP-90237,2025,March,3,Q1,Customer Retention Campaign,Influencer Partnerships,Corporate Clients,1997581,33871,2732,30266.39,607105.04,19.06,4,Profitable
+CMP-90238,2025,January,1,Q1,Flash Discount Drive,Email Marketing,Budget Shoppers,150082,7206,528,1786.7,99253.44,54.55,5,Profitable
+CMP-90239,2025,July,7,Q3,Brand Awareness Booster,Google Paid Search,Budget Shoppers,1144004,61371,3269,16342.92,700514.01,41.86,5,Profitable
+CMP-90240,2025,April,4,Q2,End of Year Clearance Blitz,Social Media Ads,Eco-Conscious Consumers,661068,24921,756,16123.63,78503.04,3.87,9,Profitable
+CMP-90241,2025,August,8,Q3,End of Year Clearance Blitz,Affiliate Network,Tech Enthusiasts,340254,17591,1097,4598.04,78249.01,16.02,6,Profitable
+CMP-90242,2025,February,2,Q1,Flash Discount Drive,Social Media Ads,Tech Enthusiasts,804945,27350,1566,11837.44,323707.86,26.35,7,Profitable
+CMP-90243,2025,January,1,Q1,Brand Awareness Booster,Social Media Ads,Young Professionals,1245601,45161,1758,20419.69,302885.82,13.83,6,Profitable
+CMP-90244,2025,December,12,Q4,Q2 Summer Retargeting Wave,Influencer Partnerships,Corporate Clients,1299067,16370,1399,28240.6,81771.55,1.9,4,Profitable
+CMP-90245,2025,November,11,Q4,Flash Discount Drive,Email Marketing,Young Professionals,300320,18708,1293,4416.48,308483.94,68.85,6,Profitable
+CMP-90246,2025,November,11,Q4,Customer Retention Campaign,Influencer Partnerships,Corporate Clients,851607,9919,801,13960.78,57607.92,3.13,6,Profitable
+CMP-90247,2025,May,5,Q2,Q1 Seasonal Product Launch,Affiliate Network,Budget Shoppers,643524,40457,3555,11095.25,359801.55,31.43,6,Profitable
+CMP-90248,2025,June,6,Q2,End of Year Clearance Blitz,Email Marketing,Budget Shoppers,137585,6969,363,2149.77,69536.28,31.35,5,Profitable
+CMP-90249,2025,September,9,Q3,Brand Awareness Booster,Email Marketing,Budget Shoppers,454165,35801,3722,5343.12,572145.84,106.08,10,Profitable
+CMP-90250,2025,May,5,Q2,End of Year Clearance Blitz,Google Paid Search,Budget Shoppers,905347,48764,1915,16765.7,275204.65,15.41,9,Profitable
+CMP-90251,2025,April,4,Q2,Q1 Seasonal Product Launch,Google Paid Search,Budget Shoppers,720884,20108,764,11817.78,125525.2,9.62,8,Profitable
+CMP-90252,2025,January,1,Q1,Q2 Summer Retargeting Wave,Google Paid Search,Young Professionals,353828,7973,395,4162.69,96699.95,22.23,9,Profitable
+CMP-90253,2025,December,12,Q4,End of Year Clearance Blitz,Google Paid Search,Tech Enthusiasts,939828,20099,1085,14917.91,81277.35,4.45,7,Profitable
+CMP-90254,2025,April,4,Q2,Q1 Seasonal Product Launch,Email Marketing,Budget Shoppers,196565,15487,1794,2730.08,271127.22,98.31,4,Profitable
+CMP-90255,2025,April,4,Q2,Q1 Seasonal Product Launch,Email Marketing,Tech Enthusiasts,181285,10170,1204,2789.01,224353.36,79.44,5,Profitable
+CMP-90256,2025,January,1,Q1,Q2 Summer Retargeting Wave,Social Media Ads,Budget Shoppers,1153488,21600,1206,24031.0,285725.52,10.89,10,Profitable
+CMP-90257,2025,December,12,Q4,Q1 Seasonal Product Launch,Google Paid Search,Eco-Conscious Consumers,700312,22326,1579,15224.19,284962.13,17.72,7,Profitable
+CMP-90258,2025,March,3,Q1,Flash Discount Drive,Influencer Partnerships,Eco-Conscious Consumers,518720,6888,456,9100.36,26160.72,1.87,10,Profitable
+CMP-90259,2025,March,3,Q1,Brand Awareness Booster,Social Media Ads,Corporate Clients,441061,19528,653,9384.28,146095.69,14.57,8,Profitable
+CMP-90260,2025,March,3,Q1,End of Year Clearance Blitz,Social Media Ads,Eco-Conscious Consumers,401901,18041,1064,9569.09,65659.44,5.86,6,Profitable
+CMP-90261,2025,July,7,Q3,End of Year Clearance Blitz,Social Media Ads,Tech Enthusiasts,897904,36857,1809,14252.46,239204.07,15.78,7,Profitable
+CMP-90262,2025,December,12,Q4,Brand Awareness Booster,Email Marketing,Budget Shoppers,90041,7505,679,1200.55,34649.37,27.86,5,Profitable
+CMP-90263,2025,April,4,Q2,Brand Awareness Booster,Influencer Partnerships,Eco-Conscious Consumers,988709,15361,1160,19386.47,143480.4,6.4,5,Profitable
+CMP-90264,2025,October,10,Q4,Customer Retention Campaign,Google Paid Search,Young Professionals,1163788,60302,2350,14021.55,285360.5,19.35,5,Profitable
+CMP-90265,2025,September,9,Q3,Customer Retention Campaign,Influencer Partnerships,Corporate Clients,1144668,31381,2093,14675.24,248313.52,15.92,5,Profitable
+CMP-90266,2025,September,9,Q3,Flash Discount Drive,Google Paid Search,Tech Enthusiasts,383465,19184,584,9586.64,118879.04,11.4,7,Profitable
+CMP-90267,2025,October,10,Q4,Customer Retention Campaign,Social Media Ads,Young Professionals,317026,6369,259,6469.93,47197.57,6.29,4,Profitable
+CMP-90268,2025,December,12,Q4,Q1 Seasonal Product Launch,Email Marketing,Young Professionals,371778,17976,1109,4533.89,217319.64,46.93,8,Profitable
+CMP-90269,2025,August,8,Q3,Brand Awareness Booster,Email Marketing,Tech Enthusiasts,417353,28909,3202,5028.35,498487.36,98.14,7,Profitable
+CMP-90270,2025,May,5,Q2,Q2 Summer Retargeting Wave,Affiliate Network,Tech Enthusiasts,511472,11235,419,11366.06,34316.1,2.02,6,Profitable
+CMP-90271,2025,December,12,Q4,Customer Retention Campaign,Social Media Ads,Young Professionals,653282,29135,1707,7966.86,82891.92,9.4,4,Profitable
+CMP-90272,2025,February,2,Q1,Q2 Summer Retargeting Wave,Affiliate Network,Young Professionals,455828,21247,797,5426.53,59320.71,9.93,5,Profitable
+CMP-90273,2025,May,5,Q2,Q2 Summer Retargeting Wave,Google Paid Search,Eco-Conscious Consumers,233842,10181,531,5314.61,128762.19,23.23,10,Profitable
+CMP-90274,2025,November,11,Q4,Q2 Summer Retargeting Wave,Google Paid Search,Eco-Conscious Consumers,637577,23846,1452,13565.47,322692.48,22.79,4,Profitable
+CMP-90275,2025,April,4,Q2,Brand Awareness Booster,Social Media Ads,Tech Enthusiasts,1612133,34612,1604,18530.27,286314.0,14.45,5,Profitable
+CMP-90276,2025,June,6,Q2,Flash Discount Drive,Google Paid Search,Eco-Conscious Consumers,439585,22122,1762,8453.56,361897.18,41.81,8,Profitable
+CMP-90277,2025,June,6,Q2,Q1 Seasonal Product Launch,Social Media Ads,Eco-Conscious Consumers,657817,23041,1205,11540.66,271088.85,22.49,10,Profitable
+CMP-90278,2025,August,8,Q3,End of Year Clearance Blitz,Influencer Partnerships,Tech Enthusiasts,640618,14722,878,16015.47,105465.36,5.59,10,Profitable
+CMP-90279,2025,September,9,Q3,Customer Retention Campaign,Email Marketing,Corporate Clients,306647,20632,1673,3982.43,100396.73,24.21,6,Profitable
+CMP-90280,2025,September,9,Q3,Flash Discount Drive,Google Paid Search,Eco-Conscious Consumers,419265,21054,1178,9317.0,273790.76,28.39,8,Profitable
+CMP-90281,2025,February,2,Q1,Q2 Summer Retargeting Wave,Social Media Ads,Corporate Clients,1273663,28507,1113,15532.48,224603.4,13.46,9,Profitable
+CMP-90282,2025,November,11,Q4,Flash Discount Drive,Google Paid Search,Young Professionals,365952,9826,298,4255.26,17763.78,3.17,10,Profitable
+CMP-90283,2025,April,4,Q2,Q1 Seasonal Product Launch,Google Paid Search,Young Professionals,734530,23730,832,17082.1,81236.48,3.76,7,Profitable
+CMP-90284,2025,March,3,Q1,Flash Discount Drive,Social Media Ads,Budget Shoppers,681364,12052,586,16618.64,59121.54,2.56,7,Profitable
+CMP-90285,2025,July,7,Q3,Q2 Summer Retargeting Wave,Social Media Ads,Young Professionals,856628,17512,718,18622.36,75770.54,3.07,4,Profitable
+CMP-90286,2025,April,4,Q2,Q2 Summer Retargeting Wave,Social Media Ads,Budget Shoppers,1232356,48283,2028,14670.91,354494.4,23.16,6,Profitable
+CMP-90287,2025,June,6,Q2,Customer Retention Campaign,Google Paid Search,Corporate Clients,775501,37054,2309,12309.54,298461.34,23.25,8,Profitable
+CMP-90288,2025,October,10,Q4,Q2 Summer Retargeting Wave,Affiliate Network,Tech Enthusiasts,341733,11995,886,4556.45,116836.82,24.64,5,Profitable
+CMP-90289,2025,October,10,Q4,Q1 Seasonal Product Launch,Social Media Ads,Budget Shoppers,1038615,33857,904,14035.35,201772.8,13.38,4,Profitable
+CMP-90290,2025,March,3,Q1,Customer Retention Campaign,Social Media Ads,Corporate Clients,908519,28528,835,17141.88,145757.6,7.5,4,Profitable
+CMP-90291,2025,July,7,Q3,Flash Discount Drive,Social Media Ads,Young Professionals,1474425,40000,1485,18902.89,287392.05,14.2,6,Profitable
+CMP-90292,2025,October,10,Q4,Brand Awareness Booster,Influencer Partnerships,Budget Shoppers,1282884,36062,3114,17105.13,194811.84,10.39,4,Profitable
+CMP-90293,2025,November,11,Q4,Brand Awareness Booster,Social Media Ads,Tech Enthusiasts,486719,16312,614,11871.21,111913.78,8.43,7,Profitable
+CMP-90294,2025,March,3,Q1,End of Year Clearance Blitz,Google Paid Search,Eco-Conscious Consumers,515763,16170,754,11461.41,42020.42,2.67,7,Profitable
+CMP-90295,2025,February,2,Q1,Q2 Summer Retargeting Wave,Email Marketing,Young Professionals,242382,13737,1245,3231.76,301464.3,92.28,8,Profitable
+CMP-90296,2025,September,9,Q3,Q1 Seasonal Product Launch,Social Media Ads,Eco-Conscious Consumers,1007498,15149,485,21436.13,100913.95,3.71,9,Profitable
+CMP-90297,2025,August,8,Q3,Customer Retention Campaign,Social Media Ads,Young Professionals,216021,8017,406,5400.53,88353.72,15.36,8,Profitable
+CMP-90298,2025,August,8,Q3,Brand Awareness Booster,Google Paid Search,Eco-Conscious Consumers,1122181,27459,1957,14573.79,151980.62,9.43,8,Profitable
+CMP-90299,2025,February,2,Q1,Flash Discount Drive,Social Media Ads,Eco-Conscious Consumers,504727,12814,378,12618.19,40684.14,2.22,7,Profitable
+CMP-90300,2025,February,2,Q1,Flash Discount Drive,Email Marketing,Budget Shoppers,218282,18765,1591,3578.4,256389.65,70.65,7,Profitable
