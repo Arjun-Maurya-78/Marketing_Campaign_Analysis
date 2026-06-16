@@ -15,15 +15,6 @@ The dashboard enables marketing teams and leadership to explore campaign perform
 
 ---
 
-## 🎯 Project Objective
-
-- Identify which marketing channels deliver the highest ROI relative to budget spend, to guide reallocation decisions.
-- Evaluate individual campaign performance to flag top performers and underperforming campaigns for review.
-- Analyse revenue seasonality by month and quarter to detect peak and underutilised periods.
-- Profile audience segments to find the most cost-efficient and highest-converting targets.
-- Compare Cost Per Lead (CPL) and conversion rates across channels and segments to optimise spend.
-- Deliver a filterable, insight-forward tool that empowers marketing decision-making without relying on static reports.
-
 ---
 
 ## 🖥️ Dashboard Pages
@@ -97,20 +88,6 @@ The dashboard enables marketing teams and leadership to explore campaign perform
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
-
-## 💡 Project Insights
-
-1. **Email Marketing is the most efficient channel by far** — with just 8% of total budget, it returns the highest ROI (57.36x) and the lowest CPL ($2.59). This points to a clear case for shifting spend away from lower-performing channels.
-
-2. **Social Media Ads is over-funded relative to its returns** — it absorbs the largest share of budget ($1.11M) yet produces the weakest ROI (10.87x) and highest CPL ($12.69), making it the top candidate for budget reduction or creative refresh.
-
-3. **Revenue is heavily seasonal, peaking mid-year** — September and Q3 are the strongest performance windows, while December under-delivers despite high campaign volume, suggesting timing or creative misalignment during a key holiday period.
-
-4. **Not all "successful" campaigns convert efficiently** — End of Year Clearance Blitz leads on raw revenue and leads, but Customer Retention Campaign, despite targeting a warm audience, posts the lowest ROI of all six campaign types — a red flag for retention messaging or offer strategy.
-
-5. **Budget Shoppers are the highest-value segment overall** — leading on revenue, ROI, and cost efficiency simultaneously, they should be prioritised in future targeting and budget allocation.
-
-6. **Tech Enthusiasts are a high-potential, underserved segment** — they convert best (5.95%) but receive the lowest revenue and spend, indicating an opportunity to scale investment toward this segment for a likely high return.
 
 ---
 
