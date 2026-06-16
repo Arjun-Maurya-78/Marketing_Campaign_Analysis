@@ -38,7 +38,7 @@ The dashboard enables marketing teams and leadership to explore campaign perform
 ### Page 2 — Channel Performance
 > *"Email Marketing is the standout channel with an average ROI of 57.36x and the lowest Cost Per Lead at $2.59, despite receiving only 8% of total budget. Social Media Ads consumes the largest budget ($1.11M) but delivers the weakest ROI at 10.87x, signaling a need for budget rebalancing toward Email and Affiliate channels."*
 
-![Channel Performance](Channel_Performance_Analysis.png)
+![Channel Performance](Channel%20Performance.png)
 
 ---
 
