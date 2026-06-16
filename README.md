@@ -31,7 +31,7 @@ The dashboard enables marketing teams and leadership to explore campaign perform
 ### Page 1 — Executive Overview
 > *"All 200 campaigns are profitable, generating $41.3M in revenue from a $2.28M budget at an average ROI of 25.32x. September is the peak month at $4.71M, while Q3 dominates quarterly performance at $11.96M — indicating a strong mid-year revenue bias."*
 
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](Executive%20Overview.png)
 
 ---
 
@@ -45,14 +45,14 @@ The dashboard enables marketing teams and leadership to explore campaign perform
 ### Page 3 — Campaign Deep Dive
 > *"End of Year Clearance Blitz leads all campaigns with $8.51M in revenue and 55,295 leads, while Customer Retention Campaign underperforms with the lowest ROI at 18.64x — surprising for a warm-audience campaign. Despite heavy Q4 campaign activity, December is the second-lowest revenue month, pointing to under-deployment of budget at a high-intent period."*
 
-![Campaign Deep Dive](Campaign_Deep_Dive.png)
+![Campaign Deep Dive](Campaign%20Deep%20Dive.png)
 
 ---
 
 ### Page 4 — Audience & Segment Analysis
 > *"Budget Shoppers deliver the best returns across the board — highest revenue ($8.62M), lowest CPL ($6.54), and highest ROI (31.58x) — making them the most cost-efficient segment to target. Tech Enthusiasts have the best conversion rate (5.95%) yet the lowest revenue total, suggesting this high-value segment is being underserved in terms of reach and spend."*
 
-![Audience & Segment Analysis](Audience_Segment_Analysis.png)
+![Audience & Segment Analysis](Audience%20%26%20Segment%20Analysis.png)
 
 ---
 
