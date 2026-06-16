@@ -132,7 +132,7 @@ This dashboard is designed to enable precise, targeted budget and campaign decis
 
 **File:** `Marketing_Campaign_Data.csv` &nbsp;|&nbsp; **Rows:** 200 &nbsp;|&nbsp; **Channels:** 5 &nbsp;|&nbsp; **Campaign Types:** 6 &nbsp;|&nbsp; **Segments:** 5 &nbsp;|&nbsp; **Period:** Jan–Dec (Q1–Q4)
 
-> 📂 Full dataset available in [`Marketing_Campaign_Data.csv`](Marketing_Campaign_Data.csv)
+> 📂 Full dataset available in [`Marketing_Campaign_Data.csv`](Marketing_Campaign_Performance_Data.csv)
 
 ---
 
